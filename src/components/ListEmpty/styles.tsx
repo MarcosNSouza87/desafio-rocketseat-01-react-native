@@ -8,7 +8,8 @@ const styles = RN.StyleSheet.create({
     borderTopColor: colors.gray.gray400,
   },
   icon:{
-    margin: 30,
+    marginTop: 60,
+    marginBottom: 30,
   },
   text:{
     color: colors.gray.gray300,
