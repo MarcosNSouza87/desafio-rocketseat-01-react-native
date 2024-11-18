@@ -1,4 +1,4 @@
-<h1>**Desafio Rocket Seat: Todo List**</h1>
+<h1>Desafio Rocket Seat: Todo List</h1>
 
 Este projeto é uma aplicação de lista de tarefas (Todo List) desenvolvida para o desafio da Rocket Seat.
 
